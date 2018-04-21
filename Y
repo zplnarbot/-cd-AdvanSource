@@ -1,0 +1,3 @@
+cd $HOME && git clone https://github.com/BeyondTeam/TACKPAR775.git && cd TACKPAR775 && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.shHOME && git clone https://github.com/BeyondTeam/TACKPAR775.gitchmod 777 autobd.sh
+screen ./autobd.shcd TACKPAR775# For Auto Launch:# Enter a phone number & confirmation code.
+/beyond.sh ./beyond.sh instchmod + x beyond.shcd $HOMEhttps://github.com/TACKPAR770/Crazix_Bot.git:https://github.com/zplnar/CerNerCompanyTG.git
